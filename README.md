@@ -134,11 +134,11 @@ Currently **freelancing** and building a set of ambitious projects while looking
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=IamAriston&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
-</div>
+</div> -->
 
 ---
 
