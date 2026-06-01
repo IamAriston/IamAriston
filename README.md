@@ -110,7 +110,7 @@ Currently **freelancing** and building a set of ambitious projects while looking
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-`Government · Live in production`
+`Government`
 
 ---
 
@@ -119,7 +119,7 @@ Currently **freelancing** and building a set of ambitious projects while looking
 
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design_3-757575?style=flat-square&logo=materialdesign&logoColor=white)
-`Government · Live in production`
+`Government`
 
 > 💼 Full project details and live demos → **[jasraj.codes](https://jasraj.codes)**
 
