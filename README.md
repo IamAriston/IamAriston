@@ -129,16 +129,16 @@ Currently **freelancing** and building a set of ambitious projects while looking
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=IamAriston&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=IamAriston&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAriston&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
-</div>
+</div> -->
 
-<!-- <div align="center">
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=IamAriston&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
-</div> -->
+</div>
 
 ---
 
